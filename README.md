@@ -1,5 +1,5 @@
 ## Olá, Eu sou a Jennifer keity
-°🖥️  Quero trabalhar na area de Front Ou Design Grafico |
+°🖥️  Quero trabalhar na area de Programaçao Ou Design Grafico |
 
 °📚 Estudante de Design de Midia Digital |
 
