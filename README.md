@@ -7,10 +7,10 @@
  <div>
 
  <a href="https://github.com/keiity96/Github-status">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=keiity96&show_icons=true&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=keiity96&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/keiity96/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiity96&layout=compact&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiity96&layout=compact&theme=dracula" />
 </a>
  </div>
 
