@@ -1,7 +1,4 @@
-<div align="center">
- <img align="center" alt="Jennifer" height="140" width="140"src="https://github.com/keiity96/keiity96/assets/55165163/767f3882-2d07-4e67-bfb4-0d1c2af9a8b3" />  
-</div>
-<br>
+
 <p align="center">
   Oiii eu sou a Jennifer Keity, Sou programadora em Ascensão!
 
@@ -28,7 +25,9 @@
   <img align="center" alt="Jennifer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Jennifer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jennifer-Mysql" height="50" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  
+  <img align="right" alt="Jennifer" height="140" width="140"src="https://github.com/keiity96/keiity96/assets/55165163/767f3882-2d07-4e67-bfb4-0d1c2af9a8b3" />  
+ 
+<br>
 
 
 </div>
